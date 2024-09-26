@@ -151,7 +151,6 @@ endmodule
   testbench implementation:
 // mux4_to_1_tb.v
 `timescale 1ns / 1ps
-
 module mux4_to_1_tb;
     // Inputs
     reg A;
