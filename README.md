@@ -148,10 +148,7 @@ endmodule
 
 
 
-    testbench implementation:
-
-
-    
+  testbench implementation:
 // mux4_to_1_tb.v
 `timescale 1ns / 1ps
 
